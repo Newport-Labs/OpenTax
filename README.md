@@ -1,6 +1,6 @@
 # OpenTax
 
-An Electron-based desktop application for keeping the "Registru de Evidenta Fiscala".
+An Electron-based desktop application for helping with Romanian tax calculations.
 
 ## Features
 
@@ -14,8 +14,8 @@ An Electron-based desktop application for keeping the "Registru de Evidenta Fisc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/company-tax-manager.git
-cd company-tax-manager
+git clone https://github.com/Newport-Labs/OpenTax.git
+cd OpenTax
 ```
 
 2. Install dependencies:
